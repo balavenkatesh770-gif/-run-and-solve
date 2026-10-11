@@ -1,0 +1,6 @@
+{
+  "name": "Run & Solve - Endless Runner Mobile Game",
+  "description": "An original 3-lane endless runner mobile game combining fast reflexive running with real-time puzzle gates, power-ups, and combo mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
